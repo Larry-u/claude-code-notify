@@ -16,3 +16,6 @@ pyinstaller -F -w --add-data "claude.ico;." claude-code-notifier.py
 
 #### Step 3
 在claude code里面让agent自己安装`SKILL.md`，skill加载完毕，后续的确认权限和任务完成均会发送到工作PC的Windows通知。
+
+### Acknowledgement
+感谢群友 https://github.com/Littlesheepxy 分享的SKILL.md
